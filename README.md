@@ -1,14 +1,3 @@
-<style>
-    .container {
-        display: flex;
-        justify-content: center;
-    }
-    .container > img {
-        margin-top: 20px;
-        /* margin-left: 5px; */
-    }
-</style>
-
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=2&text=Seongmin%20Lee&section=header&reversal=false&fontAlign=50&fontAlignY=50&animation=fadeIn">
 </div>
