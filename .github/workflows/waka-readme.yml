@@ -1,4 +1,4 @@
-name: Dev Metrics Test
+name: Dev Metrics
 
 on:
   workflow_dispatch:
