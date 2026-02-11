@@ -1,32 +1,26 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=2&text=Seongmin%20Lee&section=header&reversal=false&fontAlign=50&fontAlignY=50&animation=fadeIn">
-</div>
+<p>
+  <a href="mailto:ldh1245@gmail.com">
+    <img height="22" alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tjdals12/" target="_blank" rel="noopener noreferrer">
+    <img height="22" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tjdals12-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" />
+  </a>
+  <a href="https://iseongmin.tistory.com" target="_blank" rel="noopener noreferrer">
+    <img height="22" alt="Blog" src="https://img.shields.io/badge/Blog-iseongmin.tistory.com-FF5A4A?style=flat&amp;logo=rss&amp;logoColor=white" />
+  </a>
+  <a href="https://wakatime.com/@da0da357-5248-466c-abf4-e7641bc05553"><img src="https://wakatime.com/badge/user/da0da357-5248-466c-abf4-e7641bc05553.svg" alt="Total time coded since Feb 11 2026" /></a>
+</p>
 
-<h3 align="center">📚&nbsp;&nbsp;Tech Stack&nbsp;&nbsp;📚</h3>
-<div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-    <img style="margin-left:5px;" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img style="margin-left:5px;" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img style="margin-left:5px;" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-    <img style="margin-left:5px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
-&nbsp;
-<div align="center">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img style="margin-left:5px;" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-</div>
-&nbsp;
-<div align="center">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img style="margin-left:5px;" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-    <img style="margin-left:5px;" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-</div>
-&nbsp;
-<div align="center">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img style="margin-left:5px;" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</div>
-&nbsp;
-<div align="center">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
+<p>
+  <img height="22" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E" />
+  <img height="22" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" />
+  <img height="22" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=nodedotjs&amp;logoColor=white" />
+  <img height="22" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat&amp;logo=nestjs&amp;logoColor=white" />
+  <img height="22" alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" />
+  <img height="22" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white" />
+  <img height="22" alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat&amp;logo=prisma&amp;logoColor=white" />
+  <img height="22" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;logo=amazonaws&amp;logoColor=white" />
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
