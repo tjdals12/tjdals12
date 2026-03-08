@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-🌆 Daytime                5740 commits        ████████████░░░░░░░░░░░░░   47.94 % 
-🌃 Evening                4429 commits        █████████░░░░░░░░░░░░░░░░   36.99 % 
-🌙 Night                  286 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+🌞 Morning                1508 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+🌆 Daytime                5630 commits        ████████████░░░░░░░░░░░░░   47.65 % 
+🌃 Evening                4391 commits        █████████░░░░░░░░░░░░░░░░   37.16 % 
+🌙 Night                  286 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1765 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Tuesday                  1833 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Wednesday                1439 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Thursday                 1539 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Friday                   1429 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Saturday                 2247 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Sunday                   1721 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Monday                   1745 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Tuesday                  1823 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Wednesday                1409 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Thursday                 1462 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Friday                   1409 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Saturday                 2252 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Sunday                   1715 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 ```
 
 
@@ -48,11 +48,11 @@ Sunday                   1721 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               21 hrs 23 mins      ███████████████░░░░░░░░░░   59.09 % 
-Markdown                 8 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-JSON                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Bash                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Other                    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+TypeScript               20 hrs 19 mins      ███████████████░░░░░░░░░░   59.58 % 
+Markdown                 7 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+JSON                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Bash                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Other                    1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 
 **I Mostly Code in TypeScript** 
