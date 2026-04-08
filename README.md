@@ -28,15 +28,15 @@
 ```text
 🌞 Morning                1501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 🌆 Daytime                5772 commits        ████████████░░░░░░░░░░░░░   47.10 % 
-🌃 Evening                4696 commits        ██████████░░░░░░░░░░░░░░░   38.32 % 
+🌃 Evening                4697 commits        ██████████░░░░░░░░░░░░░░░   38.32 % 
 🌙 Night                  286 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   1767 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Tuesday                  2038 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Wednesday                1508 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Tuesday                  2039 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Wednesday                1508 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 Thursday                 1568 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
 Friday                   1450 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 Saturday                 2246 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
@@ -48,11 +48,11 @@ Sunday                   1678 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               18 hrs 1 min        ███████████░░░░░░░░░░░░░░   44.46 % 
-Markdown                 8 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Other                    8 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-YAML                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Bash                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+TypeScript               11 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   33.65 % 
+Other                    8 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Markdown                 8 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+YAML                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 
 **I Mostly Code in TypeScript** 
