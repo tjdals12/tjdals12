@@ -23,38 +23,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1881 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-🌆 Daytime                6375 commits        ████████████░░░░░░░░░░░░░   46.78 % 
-🌃 Evening                5086 commits        █████████░░░░░░░░░░░░░░░░   37.32 % 
-🌙 Night                  286 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   2052 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Tuesday                  2215 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Wednesday                1626 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Thursday                 1671 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Friday                   1662 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Saturday                 2532 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Sunday                   1870 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               18 hrs 33 mins      █████████████░░░░░░░░░░░░   53.02 % 
-Other                    7 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Markdown                 7 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Bash                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Prisma                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
