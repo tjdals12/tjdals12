@@ -48,11 +48,11 @@ Sunday                   1715 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               20 hrs 6 mins       █████████████░░░░░░░░░░░░   50.26 % 
-Markdown                 10 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-Other                    7 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Prisma                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+TypeScript               17 hrs 42 mins      ████████████░░░░░░░░░░░░░   48.77 % 
+Markdown                 10 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Other                    6 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Prisma                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 
 **I Mostly Code in TypeScript** 
