@@ -27,8 +27,8 @@
 
 ```text
 🌞 Morning                1872 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-🌆 Daytime                6183 commits        ████████████░░░░░░░░░░░░░   46.05 % 
-🌃 Evening                5086 commits        █████████░░░░░░░░░░░░░░░░   37.88 % 
+🌆 Daytime                6185 commits        ████████████░░░░░░░░░░░░░   46.06 % 
+🌃 Evening                5086 commits        █████████░░░░░░░░░░░░░░░░   37.87 % 
 🌙 Night                  286 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -39,7 +39,7 @@ Tuesday                  2191 commits        ████░░░░░░░�
 Wednesday                1607 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
 Thursday                 1621 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 Friday                   1661 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Saturday                 2523 commits        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Saturday                 2525 commits        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
 Sunday                   1854 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
 ```
 
@@ -48,11 +48,11 @@ Sunday                   1854 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   39.49 % 
-TypeScript               11 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   36.07 % 
-Other                    5 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Prisma                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-TOML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Markdown                 14 hrs 19 mins      ███████████░░░░░░░░░░░░░░   43.96 % 
+TypeScript               10 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   33.29 % 
+Other                    5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Prisma                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TOML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 **I Mostly Code in TypeScript** 
