@@ -23,6 +23,38 @@
 </p>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1500 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+🌆 Daytime                5848 commits        ████████████░░░░░░░░░░░░░   47.06 % 
+🌃 Evening                4794 commits        ██████████░░░░░░░░░░░░░░░   38.57 % 
+🌙 Night                  286 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1782 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Tuesday                  2087 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Wednesday                1528 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Thursday                 1587 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Friday                   1483 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Saturday                 2262 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Sunday                   1699 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 17 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   36.88 % 
+TypeScript               12 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+Other                    11 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+YAML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+JSON                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
