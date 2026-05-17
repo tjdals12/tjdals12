@@ -48,11 +48,11 @@ Sunday                   1827 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 15 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   34.82 % 
-TypeScript               12 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-Other                    10 hrs 56 mins      ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-YAML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Markdown                 13 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   33.02 % 
+TypeScript               12 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+Other                    10 hrs 26 mins      ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+YAML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 
 **I Mostly Code in TypeScript** 
