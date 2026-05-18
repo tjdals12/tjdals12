@@ -23,13 +23,45 @@
 </p>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1768 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+🌆 Daytime                6281 commits        ████████████░░░░░░░░░░░░░   46.82 % 
+🌃 Evening                5080 commits        █████████░░░░░░░░░░░░░░░░   37.87 % 
+🌙 Night                  286 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1948 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Tuesday                  2232 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Wednesday                1626 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Thursday                 1658 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Friday                   1629 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Saturday                 2481 commits        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Sunday                   1841 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 13 hrs 48 mins      ████████░░░░░░░░░░░░░░░░░   31.87 % 
+TypeScript               13 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   31.50 % 
+Other                    10 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+YAML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               38 repos            ██████████████████░░░░░░░   70.37 % 
-JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               39 repos            ██████████████████░░░░░░░   70.91 % 
+JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 
