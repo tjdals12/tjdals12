@@ -28,7 +28,7 @@
 ```text
 🌞 Morning                1869 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 🌆 Daytime                6655 commits        ████████████░░░░░░░░░░░░░   47.31 % 
-🌃 Evening                5256 commits        █████████░░░░░░░░░░░░░░░░   37.37 % 
+🌃 Evening                5257 commits        █████████░░░░░░░░░░░░░░░░   37.37 % 
 🌙 Night                  286 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -40,7 +40,7 @@ Wednesday                1760 commits        ███░░░░░░░░�
 Thursday                 1719 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 Friday                   1695 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 Saturday                 2586 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Sunday                   1893 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Sunday                   1894 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 ```
 
 
@@ -48,11 +48,11 @@ Sunday                   1893 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 29 hrs 25 mins      ███████████████░░░░░░░░░░   58.82 % 
-TypeScript               17 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   34.17 % 
-JSON                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Text                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Git Config               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Markdown                 34 hrs 13 mins      █████████████████░░░░░░░░   67.11 % 
+TypeScript               14 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+JSON                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Text                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Git Config               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 **I Mostly Code in TypeScript** 
