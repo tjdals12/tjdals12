@@ -23,26 +23,26 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-672%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-676%20hrs%2050%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                1814 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-🌆 Daytime                6582 commits        ████████████░░░░░░░░░░░░░   47.28 % 
-🌃 Evening                5226 commits        █████████░░░░░░░░░░░░░░░░   37.54 % 
+🌆 Daytime                6585 commits        ████████████░░░░░░░░░░░░░   47.29 % 
+🌃 Evening                5227 commits        █████████░░░░░░░░░░░░░░░░   37.54 % 
 🌙 Night                  298 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2071 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Tuesday                  2345 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Monday                   2071 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Tuesday                  2349 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 Wednesday                1750 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Thursday                 1840 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Thursday                 1840 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 Friday                   1829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 Saturday                 2347 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Sunday                   1738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Sunday                   1738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 ```
 
 
@@ -50,37 +50,37 @@ Sunday                   1738 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               36 hrs 30 mins      █████████████████░░░░░░░░   67.79 % 
-Markdown                 10 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-JSON                     3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-YAML                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Other                    49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+TypeScript               37 hrs 20 mins      █████████████████░░░░░░░░   69.06 % 
+Markdown                 9 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+JSON                     3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+YAML                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 hrs 14 mins (95.13%)
+⏱ AI Coding Time: 49 hrs 3 mins (90.71%)
 
-✍️ 17,067 lines written by AI, 628 lines written by hand (96.45% AI-written)
+✍️ 16,516 lines written by AI, 1,415 lines written by hand (92.11% AI-written)
 
-🔤 1,038,773,998 Input Tokens, 3,849,675 Output Tokens
+🔤 998,319,818 Input Tokens, 3,795,529 Output Tokens
 
-💵 $4827.73 Estimated AI Cost This Week
+💵 $4546.49 Estimated AI Cost This Week
 
-🧠 159 AI Sessions, 1109 AI Prompts
+🧠 149 AI Sessions, 1179 AI Prompts
 
-Opus                     13,108 lines        ███████████████████░░░░░░   74.22 % 
-Fable                    4,451 lines         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-Sonnet                   96 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Opus                     12,380 lines        ██████████████████░░░░░░░   72.30 % 
+Fable                    4,640 lines         ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+Sonnet                   96 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 GPT                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Haiku                    3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.45% of written lines came from AI
-📄 Detailed Prompter — average 1,417 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 4.12% of changed lines were hand-edited
+🤖 AI-Driven — 92.11% of written lines came from AI
+📄 Detailed Prompter — average 1,283 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 8.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
