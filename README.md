@@ -30,18 +30,18 @@
 ```text
 🌞 Morning                1814 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 🌆 Daytime                6585 commits        ████████████░░░░░░░░░░░░░   47.29 % 
-🌃 Evening                5227 commits        █████████░░░░░░░░░░░░░░░░   37.54 % 
+🌃 Evening                5229 commits        █████████░░░░░░░░░░░░░░░░   37.55 % 
 🌙 Night                  298 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   2071 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Tuesday                  2349 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Wednesday                1750 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Tuesday                  2350 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Wednesday                1751 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 Thursday                 1840 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Friday                   1829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Saturday                 2347 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Friday                   1829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Saturday                 2347 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
 Sunday                   1738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 ```
 
@@ -50,37 +50,37 @@ Sunday                   1738 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               37 hrs 20 mins      █████████████████░░░░░░░░   69.06 % 
-Markdown                 9 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-JSON                     3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-YAML                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TypeScript               37 hrs 35 mins      ██████████████████░░░░░░░   72.60 % 
+Markdown                 8 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+JSON                     2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+YAML                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 hrs 3 mins (90.71%)
+⏱ AI Coding Time: 44 hrs 50 mins (86.6%)
 
-✍️ 16,516 lines written by AI, 1,415 lines written by hand (92.11% AI-written)
+✍️ 12,907 lines written by AI, 2,165 lines written by hand (85.64% AI-written)
 
-🔤 998,319,818 Input Tokens, 3,795,529 Output Tokens
+🔤 877,070,737 Input Tokens, 3,234,109 Output Tokens
 
-💵 $4546.49 Estimated AI Cost This Week
+💵 $3987.10 Estimated AI Cost This Week
 
-🧠 149 AI Sessions, 1179 AI Prompts
+🧠 118 AI Sessions, 1193 AI Prompts
 
-Opus                     12,380 lines        ██████████████████░░░░░░░   72.30 % 
-Fable                    4,640 lines         ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-Sonnet                   96 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Opus                     11,016 lines        ████████████████████░░░░░   81.56 % 
+Fable                    2,484 lines         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 GPT                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Haiku                    3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.11% of written lines came from AI
-📄 Detailed Prompter — average 1,283 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 8.78% of changed lines were hand-edited
+🤖 AI-Driven — 85.64% of written lines came from AI
+📄 Detailed Prompter — average 731 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 16.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
