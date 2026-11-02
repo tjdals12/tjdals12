@@ -23,26 +23,5 @@
 </p>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2100 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-🌆 Daytime                7348 commits        ████████████░░░░░░░░░░░░░   47.39 % 
-🌃 Evening                5761 commits        █████████░░░░░░░░░░░░░░░░   37.15 % 
-🌙 Night                  298 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2309 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Tuesday                  2632 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Wednesday                2054 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Thursday                 1991 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Friday                   2007 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Saturday                 2587 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Sunday                   1927 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-```
-
-
 
 <!--END_SECTION:waka-->
